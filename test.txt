@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EC62-DFBE
+
+ Directory of C:\GitProjects
+
+29/05/2019  20:42    <DIR>          .
+29/05/2019  20:42    <DIR>          ..
+29/05/2019  20:42                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,912,012,288 bytes 
+added a line
